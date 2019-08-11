@@ -1,0 +1,81 @@
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.dll.config
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.pdb
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\EntityFramework.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Google.Protobuf.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\MySql.Data.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Renci.SshNet.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Helpers.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Http.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Mvc.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Razor.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\EntityFramework.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Google.Protobuf.pdb
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Google.Protobuf.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\MySql.Data.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Renci.SshNet.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Helpers.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Http.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Mvc.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Razor.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csprojAssemblyReference.cache
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CopyComplete
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.dll
+C:\Users\pujan\Downloads\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.pdb
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.dll.config
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.pdb
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\EntityFramework.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Google.Protobuf.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\MySql.Data.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Renci.SshNet.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Helpers.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Http.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Mvc.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Razor.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\EntityFramework.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Google.Protobuf.pdb
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Google.Protobuf.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\MySql.Data.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\Renci.SshNet.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Helpers.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Http.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Mvc.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.Razor.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CopyComplete
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.dll
+C:\Users\pujan\source\repos\ClothBazar-master new new\ClothBazar-master new\ClothBazar-master\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.pdb
