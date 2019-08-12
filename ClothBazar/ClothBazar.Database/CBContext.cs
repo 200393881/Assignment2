@@ -10,7 +10,7 @@ namespace ClothBazar.Database
 {
     public class CBContext : DbContext, IDisposable
     {
-        public CBContext() : base("ClothBazarNew")
+        public CBContext() : base("clothbazarFinal")
         {
         }
 

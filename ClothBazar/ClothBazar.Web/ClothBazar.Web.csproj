@@ -234,13 +234,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201809111450537_InitialCreate.cs" />
-    <Compile Include="Migrations\201809111450537_InitialCreate.Designer.cs">
-      <DependentUpon>201809111450537_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201809171445309_AddedNewPropertiesToUser.cs" />
-    <Compile Include="Migrations\201809171445309_AddedNewPropertiesToUser.Designer.cs">
-      <DependentUpon>201809171445309_AddedNewPropertiesToUser.cs</DependentUpon>
+    <Compile Include="Migrations\201908121354153_InitialModel.cs" />
+    <Compile Include="Migrations\201908121354153_InitialModel.Designer.cs">
+      <DependentUpon>201908121354153_InitialModel.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -609,20 +605,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201809111450537_InitialCreate.resx">
-      <DependentUpon>201809111450537_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201809171445309_AddedNewPropertiesToUser.resx">
-      <DependentUpon>201809171445309_AddedNewPropertiesToUser.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\index.d.ts" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup Condition="$(VisualStudioVersion) == '15.0'">
     <Reference Include="Microsoft.Data.Tools.Schema.Sql, Version=13.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>$(SSDTPath)\Microsoft.Data.Tools.Schema.Sql.dll</HintPath>
@@ -636,6 +623,11 @@
       <HintPath>$(SSDTUnitTestPath)\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll</HintPath>
       <Private>True</Private>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201908121354153_InitialModel.resx">
+      <DependentUpon>201908121354153_InitialModel.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

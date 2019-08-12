@@ -102,9 +102,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CBContext.cs" />
-    <Compile Include="Migrations\201908102135533_databaseAdded.cs" />
-    <Compile Include="Migrations\201908102135533_databaseAdded.Designer.cs">
-      <DependentUpon>201908102135533_databaseAdded.cs</DependentUpon>
+    <Compile Include="Migrations\201908121353048_InitialModel.cs" />
+    <Compile Include="Migrations\201908121353048_InitialModel.Designer.cs">
+      <DependentUpon>201908121353048_InitialModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908121358077_InitialModelone.cs" />
+    <Compile Include="Migrations\201908121358077_InitialModelone.Designer.cs">
+      <DependentUpon>201908121358077_InitialModelone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908121402212_InitialModelProducts.cs" />
+    <Compile Include="Migrations\201908121402212_InitialModelProducts.Designer.cs">
+      <DependentUpon>201908121402212_InitialModelProducts.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -120,8 +128,14 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201908102135533_databaseAdded.resx">
-      <DependentUpon>201908102135533_databaseAdded.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201908121353048_InitialModel.resx">
+      <DependentUpon>201908121353048_InitialModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908121358077_InitialModelone.resx">
+      <DependentUpon>201908121358077_InitialModelone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908121402212_InitialModelProducts.resx">
+      <DependentUpon>201908121402212_InitialModelProducts.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

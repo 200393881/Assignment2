@@ -24,7 +24,7 @@ namespace ClothBazar.Web.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("ClothBazarNew", throwIfV1Schema: false)
+            : base("clothbazarFinal", throwIfV1Schema: false)
         {
         }
 
